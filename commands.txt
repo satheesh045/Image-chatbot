@@ -1,0 +1,9 @@
+sudo apt update
+pip3 install flask
+pip3 install requests
+pip3 install opencv-python
+pip3 install -U numpy
+pip3 install pytesseract
+sudo apt install tesseract-ocr
+sudo apt install libtesseract-dev
+pip install git+https://github.com/notAI-tech/keras-craft 
